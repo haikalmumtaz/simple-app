@@ -2,7 +2,10 @@
 
 A new Flutter project, simple one for first time to learn Flutter.
 
-![alt text](https://github.com/haikalmumtaz/simple-app/blob/master/images/shot1.png)
+<p align="center">
+  <img src="https://github.com/haikalmumtaz/simple-app/blob/master/images/shot1.png" width="350" >
+  <img src="https://github.com/haikalmumtaz/simple-app/blob/master/images/shot2.png" width="350" >
+</p>
 
 ## Getting Started
 
