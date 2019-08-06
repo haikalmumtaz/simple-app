@@ -1,6 +1,8 @@
 # kursus_flutter
 
-A new Flutter project.
+A new Flutter project, simple one for first time to learn Flutter.
+
+![alt text](https://github.com/haikalmumtaz/simple-app/blob/master/images/shot1.png)
 
 ## Getting Started
 
